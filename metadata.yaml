@@ -14,12 +14,17 @@ contributor:
     deathdate: 1935
     gutenberg_agent_id: '44331'
     url: http://www.gutenberg.org/2009/agents/44331
+covers:
+- cover_type: archival
+  image_path: 64761-h/images/cover.jpg
 creator:
   editor:
     agent_name: Dircks, W. H.
     gutenberg_agent_id: '53038'
     url: http://www.gutenberg.org/2009/agents/53038
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64761#The-Humour-of-Holland
 gutenberg_issued: '2021-03-08'
 gutenberg_type: Text
 identifiers:
